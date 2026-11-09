@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "agents_laravel_boost",
+      "label": "Laravel Boost Setup",
+      "file_type": "concept",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\AGENTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "agents_graphify_rules",
+      "label": "Graphify Navigation Rules",
+      "file_type": "rationale",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\AGENTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "claude_laravel_boost",
+      "label": "Laravel Boost Setup Guidelines",
+      "file_type": "concept",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\CLAUDE.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_local_setup",
+      "label": "Local Development Setup",
+      "file_type": "concept",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_student_info",
+      "label": "Mahasiswa Metadata",
+      "file_type": "document",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_robots_crawler_config",
+      "label": "Robots Crawler Policy",
+      "file_type": "document",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\public\\robots.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "agents_laravel_boost",
+      "target": "claude_laravel_boost",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\AGENTS.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "readme_local_setup",
+      "target": "agents_laravel_boost",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\README.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

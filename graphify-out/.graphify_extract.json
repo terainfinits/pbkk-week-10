@@ -1,0 +1,4160 @@
+{
+  "nodes": [
+    {
+      "id": "app_http_controllers_controller",
+      "label": "Controller.php",
+      "file_type": "code",
+      "source_file": "app/Http/Controllers/Controller.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "app_http_controllers_controller_controller",
+      "label": "Controller",
+      "file_type": "code",
+      "source_file": "app/Http/Controllers/Controller.php",
+      "source_location": "L5",
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_http_controllers_profilecontroller",
+      "label": "ProfileController.php",
+      "file_type": "code",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "app_http_controllers_profilecontroller_profilecontroller",
+      "label": "ProfileController",
+      "file_type": "code",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L6",
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_http_controllers_profilecontroller_profilecontroller_home",
+      "label": ".home()",
+      "file_type": "code",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L121",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_http_controllers_profilecontroller_profilecontroller_showmahasiswa",
+      "label": ".showMahasiswa()",
+      "file_type": "code",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L128",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_http_controllers_profilecontroller_profilecontroller_agentidea",
+      "label": ".agentIdea()",
+      "file_type": "code",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L139",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_http_controllers_profilecontroller_profilecontroller_hitungipk",
+      "label": ".hitungIpk()",
+      "file_type": "code",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L150",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_http_controllers_profilecontroller_profilecontroller_riwayatstudi",
+      "label": ".riwayatStudi()",
+      "file_type": "code",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L175",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_models_user",
+      "label": "User.php",
+      "file_type": "code",
+      "source_file": "app/Models/User.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "app_models_user_user",
+      "label": "User",
+      "file_type": "code",
+      "source_file": "app/Models/User.php",
+      "source_location": "L13",
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_models_user_user_casts",
+      "label": ".casts()",
+      "file_type": "code",
+      "source_file": "app/Models/User.php",
+      "source_location": "L25",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_providers_appserviceprovider",
+      "label": "AppServiceProvider.php",
+      "file_type": "code",
+      "source_file": "app/Providers/AppServiceProvider.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "app_providers_appserviceprovider_appserviceprovider",
+      "label": "AppServiceProvider",
+      "file_type": "code",
+      "source_file": "app/Providers/AppServiceProvider.php",
+      "source_location": "L7",
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_providers_appserviceprovider_appserviceprovider_register",
+      "label": ".register()",
+      "file_type": "code",
+      "source_file": "app/Providers/AppServiceProvider.php",
+      "source_location": "L12",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "app_providers_appserviceprovider_appserviceprovider_boot",
+      "label": ".boot()",
+      "file_type": "code",
+      "source_file": "app/Providers/AppServiceProvider.php",
+      "source_location": "L20",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "artisan",
+      "label": "artisan",
+      "file_type": "code",
+      "source_file": "artisan",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "bootstrap_app",
+      "label": "app.php",
+      "file_type": "code",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "bootstrap_app_closure_1",
+      "label": "{closure#1}()",
+      "file_type": "code",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L14",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "bootstrap_app_closure_2",
+      "label": "{closure#2}()",
+      "file_type": "code",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L17",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "shouldRenderJsonWhen",
+            "receiver_type": "Exceptions",
+            "lang": "php",
+            "line": "L18",
+            "file": "bootstrap/app.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "bootstrap_app_closure_3",
+      "label": "{closure#3}()",
+      "file_type": "code",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L19",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "is",
+            "receiver_type": "Request",
+            "lang": "php",
+            "line": "L19",
+            "file": "bootstrap/app.php"
+          },
+          {
+            "callee": "expectsJson",
+            "receiver_type": "Request",
+            "lang": "php",
+            "line": "L19",
+            "file": "bootstrap/app.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "bootstrap_providers",
+      "label": "providers.php",
+      "file_type": "code",
+      "source_file": "bootstrap/providers.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer",
+      "label": "composer.json",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_schema",
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L3",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_type",
+      "label": "type",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_description",
+      "label": "description",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_keywords",
+      "label": "keywords",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_license",
+      "label": "license",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require",
+      "label": "require",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L8",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require_php",
+      "label": "php",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require_laravel_framework",
+      "label": "laravel/framework",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require_laravel_tinker",
+      "label": "laravel/tinker",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require_dev",
+      "label": "require-dev",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require_dev_fakerphp_faker",
+      "label": "fakerphp/faker",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require_dev_laravel_pail",
+      "label": "laravel/pail",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L15",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require_dev_laravel_pao",
+      "label": "laravel/pao",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L16",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require_dev_laravel_pint",
+      "label": "laravel/pint",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require_dev_mockery_mockery",
+      "label": "mockery/mockery",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L18",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require_dev_nunomaduro_collision",
+      "label": "nunomaduro/collision",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L19",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_require_dev_phpunit_phpunit",
+      "label": "phpunit/phpunit",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L20",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_autoload",
+      "label": "autoload",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L22",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_autoload_psr_4",
+      "label": "psr-4",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L23",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_psr_4_app",
+      "label": "App\\\\",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L24",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_psr_4_database_factories",
+      "label": "Database\\\\Factories\\\\",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L25",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_psr_4_database_seeders",
+      "label": "Database\\\\Seeders\\\\",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L26",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_autoload_dev",
+      "label": "autoload-dev",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L29",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_autoload_dev_psr_4",
+      "label": "psr-4",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L30",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_psr_4_tests",
+      "label": "Tests\\\\",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L31",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_scripts",
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L34",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_scripts_setup",
+      "label": "setup",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L35",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_scripts_dev",
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L43",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_scripts_test",
+      "label": "test",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L47",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_scripts_post_autoload_dump",
+      "label": "post-autoload-dump",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L51",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_scripts_post_update_cmd",
+      "label": "post-update-cmd",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L55",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_scripts_post_root_package_install",
+      "label": "post-root-package-install",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L58",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_scripts_post_create_project_cmd",
+      "label": "post-create-project-cmd",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L61",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_scripts_pre_package_uninstall",
+      "label": "pre-package-uninstall",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L66",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_extra",
+      "label": "extra",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L70",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_extra_laravel",
+      "label": "laravel",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L71",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_laravel_dont_discover",
+      "label": "dont-discover",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L72",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_config",
+      "label": "config",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L75",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_config_optimize_autoloader",
+      "label": "optimize-autoloader",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L76",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_config_preferred_install",
+      "label": "preferred-install",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L77",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_config_sort_packages",
+      "label": "sort-packages",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L78",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_config_allow_plugins",
+      "label": "allow-plugins",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L79",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_allow_plugins_pestphp_pest_plugin",
+      "label": "pestphp/pest-plugin",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L80",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_allow_plugins_php_http_discovery",
+      "label": "php-http/discovery",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L81",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_minimum_stability",
+      "label": "minimum-stability",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L84",
+      "_origin": "ast"
+    },
+    {
+      "id": "composer_prefer_stable",
+      "label": "prefer-stable",
+      "file_type": "code",
+      "source_file": "composer.json",
+      "source_location": "L85",
+      "_origin": "ast"
+    },
+    {
+      "id": "config_app",
+      "label": "app.php",
+      "file_type": "code",
+      "source_file": "config/app.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "config_auth",
+      "label": "auth.php",
+      "file_type": "code",
+      "source_file": "config/auth.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "config_cache",
+      "label": "cache.php",
+      "file_type": "code",
+      "source_file": "config/cache.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "config_database",
+      "label": "database.php",
+      "file_type": "code",
+      "source_file": "config/database.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "config_filesystems",
+      "label": "filesystems.php",
+      "file_type": "code",
+      "source_file": "config/filesystems.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "config_logging",
+      "label": "logging.php",
+      "file_type": "code",
+      "source_file": "config/logging.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "config_mail",
+      "label": "mail.php",
+      "file_type": "code",
+      "source_file": "config/mail.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "config_queue",
+      "label": "queue.php",
+      "file_type": "code",
+      "source_file": "config/queue.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "config_services",
+      "label": "services.php",
+      "file_type": "code",
+      "source_file": "config/services.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "config_session",
+      "label": "session.php",
+      "file_type": "code",
+      "source_file": "config/session.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "database_factories_userfactory",
+      "label": "UserFactory.php",
+      "file_type": "code",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "database_factories_userfactory_userfactory",
+      "label": "UserFactory",
+      "file_type": "code",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L13",
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "database_factories_userfactory_userfactory_definition",
+      "label": ".definition()",
+      "file_type": "code",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L25",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "make",
+            "receiver_type": "Hash",
+            "lang": "php",
+            "line": "L31",
+            "file": "database/factories/UserFactory.php"
+          },
+          {
+            "callee": "random",
+            "receiver_type": "Str",
+            "lang": "php",
+            "line": "L32",
+            "file": "database/factories/UserFactory.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_factories_userfactory_userfactory_unverified",
+      "label": ".unverified()",
+      "file_type": "code",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L39",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "static",
+      "label": "static",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "database_factories_userfactory_closure_1",
+      "label": "{closure#1}()",
+      "file_type": "code",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L41",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000000_create_users_table",
+      "label": "0001_01_01_000000_create_users_table.php",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000000_create_users_table_up",
+      "label": "up()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L12",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "create",
+            "receiver_type": "Schema",
+            "lang": "php",
+            "line": "L14",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000000_create_users_table_closure_1",
+      "label": "{closure#1}()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L14",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "id",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L15",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          },
+          {
+            "callee": "string",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L16",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          },
+          {
+            "callee": "timestamp",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L18",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          },
+          {
+            "callee": "rememberToken",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L20",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          },
+          {
+            "callee": "timestamps",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L21",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000000_create_users_table_closure_2",
+      "label": "{closure#2}()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L24",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "string",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L25",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          },
+          {
+            "callee": "timestamp",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L27",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000000_create_users_table_closure_3",
+      "label": "{closure#3}()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L30",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "string",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L31",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          },
+          {
+            "callee": "foreignId",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L32",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          },
+          {
+            "callee": "text",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L34",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          },
+          {
+            "callee": "longText",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L35",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          },
+          {
+            "callee": "integer",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L36",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000000_create_users_table_down",
+      "label": "down()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L43",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "dropIfExists",
+            "receiver_type": "Schema",
+            "lang": "php",
+            "line": "L45",
+            "file": "database/migrations/0001_01_01_000000_create_users_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000001_create_cache_table",
+      "label": "0001_01_01_000001_create_cache_table.php",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000001_create_cache_table_up",
+      "label": "up()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L12",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "create",
+            "receiver_type": "Schema",
+            "lang": "php",
+            "line": "L14",
+            "file": "database/migrations/0001_01_01_000001_create_cache_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000001_create_cache_table_closure_1",
+      "label": "{closure#1}()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L14",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "string",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L15",
+            "file": "database/migrations/0001_01_01_000001_create_cache_table.php"
+          },
+          {
+            "callee": "mediumText",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L16",
+            "file": "database/migrations/0001_01_01_000001_create_cache_table.php"
+          },
+          {
+            "callee": "bigInteger",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L17",
+            "file": "database/migrations/0001_01_01_000001_create_cache_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000001_create_cache_table_closure_2",
+      "label": "{closure#2}()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L20",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "string",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L21",
+            "file": "database/migrations/0001_01_01_000001_create_cache_table.php"
+          },
+          {
+            "callee": "bigInteger",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L23",
+            "file": "database/migrations/0001_01_01_000001_create_cache_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000001_create_cache_table_down",
+      "label": "down()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L30",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "dropIfExists",
+            "receiver_type": "Schema",
+            "lang": "php",
+            "line": "L32",
+            "file": "database/migrations/0001_01_01_000001_create_cache_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000002_create_jobs_table",
+      "label": "0001_01_01_000002_create_jobs_table.php",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000002_create_jobs_table_up",
+      "label": "up()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L12",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "create",
+            "receiver_type": "Schema",
+            "lang": "php",
+            "line": "L14",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000002_create_jobs_table_closure_1",
+      "label": "{closure#1}()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L14",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "id",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L15",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          },
+          {
+            "callee": "string",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L16",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          },
+          {
+            "callee": "longText",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L17",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          },
+          {
+            "callee": "unsignedSmallInteger",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L18",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          },
+          {
+            "callee": "unsignedInteger",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L19",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000002_create_jobs_table_closure_2",
+      "label": "{closure#2}()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L24",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "string",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L25",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          },
+          {
+            "callee": "integer",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L27",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          },
+          {
+            "callee": "longText",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L30",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          },
+          {
+            "callee": "mediumText",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L31",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000002_create_jobs_table_closure_3",
+      "label": "{closure#3}()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L37",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "id",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L38",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          },
+          {
+            "callee": "string",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L39",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          },
+          {
+            "callee": "longText",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L42",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          },
+          {
+            "callee": "timestamp",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L44",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          },
+          {
+            "callee": "index",
+            "receiver_type": "Blueprint",
+            "lang": "php",
+            "line": "L46",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_migrations_0001_01_01_000002_create_jobs_table_down",
+      "label": "down()",
+      "file_type": "code",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L53",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "dropIfExists",
+            "receiver_type": "Schema",
+            "lang": "php",
+            "line": "L55",
+            "file": "database/migrations/0001_01_01_000002_create_jobs_table.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "database_seeders_databaseseeder",
+      "label": "DatabaseSeeder.php",
+      "file_type": "code",
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "database_seeders_databaseseeder_databaseseeder",
+      "label": "DatabaseSeeder",
+      "file_type": "code",
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "L9",
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "database_seeders_databaseseeder_databaseseeder_run",
+      "label": ".run()",
+      "file_type": "code",
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "L16",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "package",
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_schema",
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_private",
+      "label": "private",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_type",
+      "label": "type",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_scripts",
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_scripts_build",
+      "label": "build",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_scripts_dev",
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies",
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_tailwindcss_vite",
+      "label": "@tailwindcss/vite@^4.0.0",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "ref_tailwindcss_vite",
+      "label": "@tailwindcss/vite",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_concurrently",
+      "label": "concurrently@^10.0.3",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "ref_concurrently",
+      "label": "concurrently",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L11",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_laravel_vite_plugin",
+      "label": "laravel-vite-plugin@^3.1",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "ref_laravel_vite_plugin",
+      "label": "laravel-vite-plugin",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_tailwindcss",
+      "label": "tailwindcss@^4.0.0",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "ref_tailwindcss",
+      "label": "tailwindcss",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_devdependencies_vite",
+      "label": "vite@^8.0.0",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "ref_vite",
+      "label": "vite",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_optionaldependencies",
+      "label": "optionalDependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "_origin": "ast"
+    },
+    {
+      "id": "package_optionaldependencies_laravel_multiplex",
+      "label": "@laravel/multiplex@^0.4.1",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "ref_laravel_multiplex",
+      "label": "@laravel/multiplex",
+      "file_type": "concept",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "_origin": "ast"
+    },
+    {
+      "id": "public_index",
+      "label": "index.php",
+      "file_type": "code",
+      "source_file": "public/index.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_js_app",
+      "label": "app.js",
+      "file_type": "code",
+      "source_file": "resources/js/app.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_agent_blade",
+      "label": "agent.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/agent.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_agent_blade_php_layouts_app",
+      "label": "layouts.app",
+      "file_type": "code",
+      "source_file": "resources/views/agent.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "partials_code_chat_mockup",
+      "label": "partials.code-chat-mockup",
+      "file_type": "code",
+      "source_file": "resources/views/agent.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_errors_fallback_blade",
+      "label": "fallback.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/errors/fallback.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_home_blade",
+      "label": "home.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/home.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_home_blade_php_layouts_app",
+      "label": "layouts.app",
+      "file_type": "code",
+      "source_file": "resources/views/home.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_ipk_blade",
+      "label": "ipk.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/ipk.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_ipk_blade_php_layouts_app",
+      "label": "layouts.app",
+      "file_type": "code",
+      "source_file": "resources/views/ipk.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_layouts_app_blade",
+      "label": "app.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/layouts/app.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "partials_navbar",
+      "label": "partials.navbar",
+      "file_type": "code",
+      "source_file": "resources/views/layouts/app.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "partials_footer",
+      "label": "partials.footer",
+      "file_type": "code",
+      "source_file": "resources/views/layouts/app.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_mahasiswa_blade",
+      "label": "mahasiswa.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/mahasiswa.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_mahasiswa_blade_php_layouts_app",
+      "label": "layouts.app",
+      "file_type": "code",
+      "source_file": "resources/views/mahasiswa.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_partials_code_chat_mockup_blade",
+      "label": "code-chat-mockup.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/partials/code-chat-mockup.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_partials_footer_blade",
+      "label": "footer.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/partials/footer.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_partials_navbar_blade",
+      "label": "navbar.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/partials/navbar.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_riwayat_blade",
+      "label": "riwayat.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/riwayat.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_riwayat_blade_php_layouts_app",
+      "label": "layouts.app",
+      "file_type": "code",
+      "source_file": "resources/views/riwayat.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "resources_views_welcome_blade",
+      "label": "welcome.blade.php",
+      "file_type": "code",
+      "source_file": "resources/views/welcome.blade.php",
+      "source_location": null,
+      "_origin": "ast"
+    },
+    {
+      "id": "routes_console",
+      "label": "console.php",
+      "file_type": "code",
+      "source_file": "routes/console.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "routes_console_closure_1",
+      "label": "{closure#1}()",
+      "file_type": "code",
+      "source_file": "routes/console.php",
+      "source_location": "L6",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "quote",
+            "receiver_type": "Inspiring",
+            "lang": "php",
+            "line": "L7",
+            "file": "routes/console.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "routes_web",
+      "label": "web.php",
+      "file_type": "code",
+      "source_file": "routes/web.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "routes_web_closure_1",
+      "label": "{closure#1}()",
+      "file_type": "code",
+      "source_file": "routes/web.php",
+      "source_location": "L18",
+      "_callable": true,
+      "metadata": {
+        "unresolved_calls": [
+          {
+            "callee": "get",
+            "receiver_type": "Route",
+            "lang": "php",
+            "line": "L21",
+            "file": "routes/web.php"
+          }
+        ]
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "routes_web_closure_2",
+      "label": "{closure#2}()",
+      "file_type": "code",
+      "source_file": "routes/web.php",
+      "source_location": "L30",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "tests_feature_exampletest",
+      "label": "ExampleTest.php",
+      "file_type": "code",
+      "source_file": "tests/Feature/ExampleTest.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "tests_feature_exampletest_exampletest",
+      "label": "ExampleTest",
+      "file_type": "code",
+      "source_file": "tests/Feature/ExampleTest.php",
+      "source_location": "L8",
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "tests_feature_exampletest_exampletest_test_the_application_returns_a_successful_response",
+      "label": ".test_the_application_returns_a_successful_response()",
+      "file_type": "code",
+      "source_file": "tests/Feature/ExampleTest.php",
+      "source_location": "L13",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "tests_testcase",
+      "label": "TestCase.php",
+      "file_type": "code",
+      "source_file": "tests/TestCase.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "tests_testcase_testcase",
+      "label": "TestCase",
+      "file_type": "code",
+      "source_file": "tests/TestCase.php",
+      "source_location": "L7",
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "tests_unit_exampletest",
+      "label": "ExampleTest.php",
+      "file_type": "code",
+      "source_file": "tests/Unit/ExampleTest.php",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "tests_unit_exampletest_exampletest",
+      "label": "ExampleTest",
+      "file_type": "code",
+      "source_file": "tests/Unit/ExampleTest.php",
+      "source_location": "L7",
+      "_callable": true,
+      "_callable_class": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "tests_unit_exampletest_exampletest_test_that_true_is_true",
+      "label": ".test_that_true_is_true()",
+      "file_type": "code",
+      "source_file": "tests/Unit/ExampleTest.php",
+      "source_location": "L12",
+      "_callable": true,
+      "_origin": "ast"
+    },
+    {
+      "id": "vite_config",
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "vite.config.js",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_http_request",
+      "label": "Illuminate\\Http\\Request",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_database_eloquent_attributes_fillable",
+      "label": "Illuminate\\Database\\Eloquent\\Attributes\\Fillable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_database_eloquent_attributes_hidden",
+      "label": "Illuminate\\Database\\Eloquent\\Attributes\\Hidden",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_database_eloquent_factories_hasfactory",
+      "label": "Illuminate\\Database\\Eloquent\\Factories\\HasFactory",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_foundation_auth_user",
+      "label": "Illuminate\\Foundation\\Auth\\User",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_notifications_notifiable",
+      "label": "Illuminate\\Notifications\\Notifiable",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_support_serviceprovider",
+      "label": "Illuminate\\Support\\ServiceProvider",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_foundation_application",
+      "label": "Illuminate\\Foundation\\Application",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_foundation_configuration_exceptions",
+      "label": "Illuminate\\Foundation\\Configuration\\Exceptions",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_foundation_configuration_middleware",
+      "label": "Illuminate\\Foundation\\Configuration\\Middleware",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_support_str",
+      "label": "Illuminate\\Support\\Str",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "pdo_mysql",
+      "label": "Pdo\\Mysql",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "monolog_handler_nullhandler",
+      "label": "Monolog\\Handler\\NullHandler",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "monolog_handler_streamhandler",
+      "label": "Monolog\\Handler\\StreamHandler",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "monolog_handler_syslogudphandler",
+      "label": "Monolog\\Handler\\SyslogUdpHandler",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "monolog_processor_psrlogmessageprocessor",
+      "label": "Monolog\\Processor\\PsrLogMessageProcessor",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_database_eloquent_factories_factory",
+      "label": "Illuminate\\Database\\Eloquent\\Factories\\Factory",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_support_facades_hash",
+      "label": "Illuminate\\Support\\Facades\\Hash",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_database_migrations_migration",
+      "label": "Illuminate\\Database\\Migrations\\Migration",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_database_schema_blueprint",
+      "label": "Illuminate\\Database\\Schema\\Blueprint",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_support_facades_schema",
+      "label": "Illuminate\\Support\\Facades\\Schema",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_database_console_seeds_withoutmodelevents",
+      "label": "Illuminate\\Database\\Console\\Seeds\\WithoutModelEvents",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_database_seeder",
+      "label": "Illuminate\\Database\\Seeder",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_foundation_inspiring",
+      "label": "Illuminate\\Foundation\\Inspiring",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_support_facades_artisan",
+      "label": "Illuminate\\Support\\Facades\\Artisan",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_support_facades_route",
+      "label": "Illuminate\\Support\\Facades\\Route",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "illuminate_foundation_testing_testcase",
+      "label": "Illuminate\\Foundation\\Testing\\TestCase",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "phpunit_framework_testcase",
+      "label": "PHPUnit\\Framework\\TestCase",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast"
+    },
+    {
+      "id": "agents_laravel_boost",
+      "label": "Laravel Boost Setup",
+      "file_type": "concept",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\AGENTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "_origin": "semantic"
+    },
+    {
+      "id": "agents_graphify_rules",
+      "label": "Graphify Navigation Rules",
+      "file_type": "rationale",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\AGENTS.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "_origin": "semantic"
+    },
+    {
+      "id": "claude_laravel_boost",
+      "label": "Laravel Boost Setup Guidelines",
+      "file_type": "concept",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\CLAUDE.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "_origin": "semantic"
+    },
+    {
+      "id": "readme_local_setup",
+      "label": "Local Development Setup",
+      "file_type": "concept",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "_origin": "semantic"
+    },
+    {
+      "id": "readme_student_info",
+      "label": "Mahasiswa Metadata",
+      "file_type": "document",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "_origin": "semantic"
+    },
+    {
+      "id": "public_robots_crawler_config",
+      "label": "Robots Crawler Policy",
+      "file_type": "document",
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\public\\robots.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "_origin": "semantic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "app_http_controllers_controller",
+      "target": "app_http_controllers_controller_controller",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Http/Controllers/Controller.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_http_controllers_profilecontroller",
+      "target": "illuminate_http_request",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_http_controllers_profilecontroller",
+      "target": "app_http_controllers_profilecontroller_profilecontroller",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_http_controllers_profilecontroller_profilecontroller",
+      "target": "app_http_controllers_controller_controller",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_http_controllers_profilecontroller_profilecontroller",
+      "target": "app_http_controllers_profilecontroller_profilecontroller_home",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L121",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_http_controllers_profilecontroller_profilecontroller",
+      "target": "app_http_controllers_profilecontroller_profilecontroller_showmahasiswa",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L128",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_http_controllers_profilecontroller_profilecontroller",
+      "target": "app_http_controllers_profilecontroller_profilecontroller_agentidea",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L139",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_http_controllers_profilecontroller_profilecontroller",
+      "target": "app_http_controllers_profilecontroller_profilecontroller_hitungipk",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L150",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_http_controllers_profilecontroller_profilecontroller",
+      "target": "app_http_controllers_profilecontroller_profilecontroller_riwayatstudi",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Http/Controllers/ProfileController.php",
+      "source_location": "L175",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_models_user",
+      "target": "database_factories_userfactory_userfactory",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Models/User.php",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_models_user",
+      "target": "illuminate_database_eloquent_attributes_fillable",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Models/User.php",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_models_user",
+      "target": "illuminate_database_eloquent_attributes_hidden",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Models/User.php",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_models_user",
+      "target": "illuminate_database_eloquent_factories_hasfactory",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Models/User.php",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_models_user",
+      "target": "illuminate_foundation_auth_user",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Models/User.php",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_models_user",
+      "target": "illuminate_notifications_notifiable",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Models/User.php",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_models_user",
+      "target": "app_models_user_user",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Models/User.php",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_models_user_user",
+      "target": "illuminate_foundation_auth_user",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Models/User.php",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_models_user_user",
+      "target": "illuminate_database_eloquent_factories_hasfactory",
+      "relation": "mixes_in",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Models/User.php",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_models_user_user",
+      "target": "illuminate_notifications_notifiable",
+      "relation": "mixes_in",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Models/User.php",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_models_user_user",
+      "target": "app_models_user_user_casts",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Models/User.php",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_providers_appserviceprovider",
+      "target": "illuminate_support_serviceprovider",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Providers/AppServiceProvider.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_providers_appserviceprovider",
+      "target": "app_providers_appserviceprovider_appserviceprovider",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Providers/AppServiceProvider.php",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_providers_appserviceprovider_appserviceprovider",
+      "target": "illuminate_support_serviceprovider",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Providers/AppServiceProvider.php",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_providers_appserviceprovider_appserviceprovider",
+      "target": "app_providers_appserviceprovider_appserviceprovider_register",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Providers/AppServiceProvider.php",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "app_providers_appserviceprovider_appserviceprovider",
+      "target": "app_providers_appserviceprovider_appserviceprovider_boot",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/Providers/AppServiceProvider.php",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "artisan",
+      "target": "application",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "artisan",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "artisan",
+      "target": "argvinput",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "artisan",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "bootstrap_app",
+      "target": "illuminate_foundation_application",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "bootstrap_app",
+      "target": "illuminate_foundation_configuration_exceptions",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "bootstrap_app",
+      "target": "illuminate_foundation_configuration_middleware",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "bootstrap_app",
+      "target": "illuminate_http_request",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "bootstrap_app",
+      "target": "bootstrap_app_closure_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "bootstrap_app_closure_1",
+      "target": "illuminate_foundation_configuration_middleware",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "bootstrap_app",
+      "target": "bootstrap_app_closure_2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "bootstrap_app_closure_2",
+      "target": "illuminate_foundation_configuration_exceptions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "bootstrap_app",
+      "target": "bootstrap_app_closure_3",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "bootstrap_app_closure_3",
+      "target": "illuminate_http_request",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap/app.php",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "bootstrap_providers",
+      "target": "app_providers_appserviceprovider_appserviceprovider",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap/providers.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_schema",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_type",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_description",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_keywords",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_license",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_require",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_require",
+      "target": "composer_require_php",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_require",
+      "target": "composer_require_laravel_framework",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_require",
+      "target": "composer_require_laravel_tinker",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_require_dev",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_require_dev",
+      "target": "composer_require_dev_fakerphp_faker",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_require_dev",
+      "target": "composer_require_dev_laravel_pail",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_require_dev",
+      "target": "composer_require_dev_laravel_pao",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_require_dev",
+      "target": "composer_require_dev_laravel_pint",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_require_dev",
+      "target": "composer_require_dev_mockery_mockery",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_require_dev",
+      "target": "composer_require_dev_nunomaduro_collision",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_require_dev",
+      "target": "composer_require_dev_phpunit_phpunit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_autoload",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_autoload",
+      "target": "composer_autoload_psr_4",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_autoload_psr_4",
+      "target": "composer_psr_4_app",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_autoload_psr_4",
+      "target": "composer_psr_4_database_factories",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_autoload_psr_4",
+      "target": "composer_psr_4_database_seeders",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L26",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_autoload_dev",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_autoload_dev",
+      "target": "composer_autoload_dev_psr_4",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_autoload_dev_psr_4",
+      "target": "composer_psr_4_tests",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_scripts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_scripts",
+      "target": "composer_scripts_setup",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_scripts",
+      "target": "composer_scripts_dev",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_scripts",
+      "target": "composer_scripts_test",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L47",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_scripts",
+      "target": "composer_scripts_post_autoload_dump",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_scripts",
+      "target": "composer_scripts_post_update_cmd",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L55",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_scripts",
+      "target": "composer_scripts_post_root_package_install",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L58",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_scripts",
+      "target": "composer_scripts_post_create_project_cmd",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L61",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_scripts",
+      "target": "composer_scripts_pre_package_uninstall",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L66",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_extra",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L70",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_extra",
+      "target": "composer_extra_laravel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L71",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_extra_laravel",
+      "target": "composer_laravel_dont_discover",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L72",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_config",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L75",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_config",
+      "target": "composer_config_optimize_autoloader",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L76",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_config",
+      "target": "composer_config_preferred_install",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L77",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_config",
+      "target": "composer_config_sort_packages",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L78",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_config",
+      "target": "composer_config_allow_plugins",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L79",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_config_allow_plugins",
+      "target": "composer_allow_plugins_pestphp_pest_plugin",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L80",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer_config_allow_plugins",
+      "target": "composer_allow_plugins_php_http_discovery",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L81",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_minimum_stability",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L84",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "composer",
+      "target": "composer_prefer_stable",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "composer.json",
+      "source_location": "L85",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "config_auth",
+      "target": "app_models_user_user",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "config/auth.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "config_cache",
+      "target": "illuminate_support_str",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "config/cache.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "config_database",
+      "target": "illuminate_support_str",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "config/database.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "config_database",
+      "target": "pdo_mysql",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "config/database.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "config_logging",
+      "target": "monolog_handler_nullhandler",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "config/logging.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "config_logging",
+      "target": "monolog_handler_streamhandler",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "config/logging.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "config_logging",
+      "target": "monolog_handler_syslogudphandler",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "config/logging.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "config_logging",
+      "target": "monolog_processor_psrlogmessageprocessor",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "config/logging.php",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "config_session",
+      "target": "illuminate_support_str",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "config/session.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_factories_userfactory",
+      "target": "app_models_user_user",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_factories_userfactory",
+      "target": "illuminate_database_eloquent_factories_factory",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_factories_userfactory",
+      "target": "illuminate_support_facades_hash",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_factories_userfactory",
+      "target": "illuminate_support_str",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_factories_userfactory",
+      "target": "database_factories_userfactory_userfactory",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_factories_userfactory_userfactory",
+      "target": "illuminate_database_eloquent_factories_factory",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_factories_userfactory_userfactory",
+      "target": "database_factories_userfactory_userfactory_definition",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_factories_userfactory_userfactory",
+      "target": "database_factories_userfactory_userfactory_unverified",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L39",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_factories_userfactory_userfactory_unverified",
+      "target": "static",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L39",
+      "weight": 1.0,
+      "context": "return_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "database_factories_userfactory",
+      "target": "database_factories_userfactory_closure_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L41",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_factories_userfactory_userfactory_definition",
+      "target": "static",
+      "relation": "uses_static_prop",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "database/factories/UserFactory.php",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000000_create_users_table",
+      "target": "illuminate_database_migrations_migration",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000000_create_users_table",
+      "target": "illuminate_database_schema_blueprint",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000000_create_users_table",
+      "target": "illuminate_support_facades_schema",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000000_create_users_table",
+      "target": "database_migrations_0001_01_01_000000_create_users_table_up",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000000_create_users_table",
+      "target": "database_migrations_0001_01_01_000000_create_users_table_closure_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000000_create_users_table_closure_1",
+      "target": "illuminate_database_schema_blueprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000000_create_users_table",
+      "target": "database_migrations_0001_01_01_000000_create_users_table_closure_2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000000_create_users_table_closure_2",
+      "target": "illuminate_database_schema_blueprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L24",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000000_create_users_table",
+      "target": "database_migrations_0001_01_01_000000_create_users_table_closure_3",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000000_create_users_table_closure_3",
+      "target": "illuminate_database_schema_blueprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000000_create_users_table",
+      "target": "database_migrations_0001_01_01_000000_create_users_table_down",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000000_create_users_table.php",
+      "source_location": "L43",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000001_create_cache_table",
+      "target": "illuminate_database_migrations_migration",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000001_create_cache_table",
+      "target": "illuminate_database_schema_blueprint",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000001_create_cache_table",
+      "target": "illuminate_support_facades_schema",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000001_create_cache_table",
+      "target": "database_migrations_0001_01_01_000001_create_cache_table_up",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000001_create_cache_table",
+      "target": "database_migrations_0001_01_01_000001_create_cache_table_closure_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000001_create_cache_table_closure_1",
+      "target": "illuminate_database_schema_blueprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000001_create_cache_table",
+      "target": "database_migrations_0001_01_01_000001_create_cache_table_closure_2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000001_create_cache_table_closure_2",
+      "target": "illuminate_database_schema_blueprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000001_create_cache_table",
+      "target": "database_migrations_0001_01_01_000001_create_cache_table_down",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000001_create_cache_table.php",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000002_create_jobs_table",
+      "target": "illuminate_database_migrations_migration",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000002_create_jobs_table",
+      "target": "illuminate_database_schema_blueprint",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000002_create_jobs_table",
+      "target": "illuminate_support_facades_schema",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000002_create_jobs_table",
+      "target": "database_migrations_0001_01_01_000002_create_jobs_table_up",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000002_create_jobs_table",
+      "target": "database_migrations_0001_01_01_000002_create_jobs_table_closure_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000002_create_jobs_table_closure_1",
+      "target": "illuminate_database_schema_blueprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000002_create_jobs_table",
+      "target": "database_migrations_0001_01_01_000002_create_jobs_table_closure_2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000002_create_jobs_table_closure_2",
+      "target": "illuminate_database_schema_blueprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L24",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000002_create_jobs_table",
+      "target": "database_migrations_0001_01_01_000002_create_jobs_table_closure_3",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L37",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000002_create_jobs_table_closure_3",
+      "target": "illuminate_database_schema_blueprint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L37",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "_origin": "ast"
+    },
+    {
+      "source": "database_migrations_0001_01_01_000002_create_jobs_table",
+      "target": "database_migrations_0001_01_01_000002_create_jobs_table_down",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/migrations/0001_01_01_000002_create_jobs_table.php",
+      "source_location": "L53",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_seeders_databaseseeder",
+      "target": "app_models_user_user",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_seeders_databaseseeder",
+      "target": "illuminate_database_console_seeds_withoutmodelevents",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_seeders_databaseseeder",
+      "target": "illuminate_database_seeder",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_seeders_databaseseeder",
+      "target": "database_seeders_databaseseeder_databaseseeder",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_seeders_databaseseeder_databaseseeder",
+      "target": "illuminate_database_seeder",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_seeders_databaseseeder_databaseseeder",
+      "target": "illuminate_database_console_seeds_withoutmodelevents",
+      "relation": "mixes_in",
+      "confidence": "EXTRACTED",
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "database_seeders_databaseseeder_databaseseeder",
+      "target": "database_seeders_databaseseeder_databaseseeder_run",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "database/seeders/DatabaseSeeder.php",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_schema",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_private",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_type",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_scripts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_scripts",
+      "target": "package_scripts_build",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_scripts",
+      "target": "package_scripts_dev",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_devdependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_tailwindcss_vite",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "ref_tailwindcss_vite",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_tailwindcss_vite",
+      "target": "ref_tailwindcss_vite",
+      "relation": "declares",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_concurrently",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "ref_concurrently",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_concurrently",
+      "target": "ref_concurrently",
+      "relation": "declares",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_laravel_vite_plugin",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "ref_laravel_vite_plugin",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_laravel_vite_plugin",
+      "target": "ref_laravel_vite_plugin",
+      "relation": "declares",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_tailwindcss",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "ref_tailwindcss",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_tailwindcss",
+      "target": "ref_tailwindcss",
+      "relation": "declares",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_vite",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "ref_vite",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_devdependencies_vite",
+      "target": "ref_vite",
+      "relation": "declares",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "package_optionaldependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package_optionaldependencies",
+      "target": "package_optionaldependencies_laravel_multiplex",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "package",
+      "target": "ref_laravel_multiplex",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast"
+    },
+    {
+      "source": "package_optionaldependencies_laravel_multiplex",
+      "target": "ref_laravel_multiplex",
+      "relation": "declares",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "public_index",
+      "target": "illuminate_foundation_application",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "public/index.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "public_index",
+      "target": "illuminate_http_request",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "public/index.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_views_agent_blade",
+      "target": "resources_views_agent_blade_php_layouts_app",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/agent.blade.php",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_views_agent_blade",
+      "target": "partials_code_chat_mockup",
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/agent.blade.php",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_views_agent_blade",
+      "target": "partials_code_chat_mockup",
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/agent.blade.php",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_views_home_blade",
+      "target": "resources_views_home_blade_php_layouts_app",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/home.blade.php",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_views_ipk_blade",
+      "target": "resources_views_ipk_blade_php_layouts_app",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/ipk.blade.php",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_views_layouts_app_blade",
+      "target": "partials_navbar",
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/layouts/app.blade.php",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_views_layouts_app_blade",
+      "target": "partials_footer",
+      "relation": "includes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/layouts/app.blade.php",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_views_mahasiswa_blade",
+      "target": "resources_views_mahasiswa_blade_php_layouts_app",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/mahasiswa.blade.php",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "resources_views_riwayat_blade",
+      "target": "resources_views_riwayat_blade_php_layouts_app",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "resources/views/riwayat.blade.php",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "routes_console",
+      "target": "illuminate_foundation_inspiring",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "routes/console.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "routes_console",
+      "target": "illuminate_support_facades_artisan",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "routes/console.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "routes_console",
+      "target": "routes_console_closure_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "routes/console.php",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "routes_web",
+      "target": "app_http_controllers_profilecontroller_profilecontroller",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "routes/web.php",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "routes_web",
+      "target": "illuminate_support_facades_route",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "routes/web.php",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "routes_web",
+      "target": "routes_web_closure_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "routes/web.php",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "routes_web",
+      "target": "routes_web_closure_2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "routes/web.php",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tests_feature_exampletest",
+      "target": "tests_testcase_testcase",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/Feature/ExampleTest.php",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tests_feature_exampletest",
+      "target": "tests_feature_exampletest_exampletest",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/Feature/ExampleTest.php",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tests_feature_exampletest_exampletest",
+      "target": "tests_testcase_testcase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/Feature/ExampleTest.php",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tests_feature_exampletest_exampletest",
+      "target": "tests_feature_exampletest_exampletest_test_the_application_returns_a_successful_response",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/Feature/ExampleTest.php",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tests_testcase",
+      "target": "illuminate_foundation_testing_testcase",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/TestCase.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tests_testcase",
+      "target": "tests_testcase_testcase",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/TestCase.php",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tests_testcase_testcase",
+      "target": "illuminate_foundation_testing_testcase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/TestCase.php",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tests_unit_exampletest",
+      "target": "phpunit_framework_testcase",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/Unit/ExampleTest.php",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tests_unit_exampletest",
+      "target": "tests_unit_exampletest_exampletest",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/Unit/ExampleTest.php",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tests_unit_exampletest_exampletest",
+      "target": "phpunit_framework_testcase",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/Unit/ExampleTest.php",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "tests_unit_exampletest_exampletest",
+      "target": "tests_unit_exampletest_exampletest_test_that_true_is_true",
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/Unit/ExampleTest.php",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "vite_config",
+      "target": "ref_vite",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "vite.config.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "vite_config",
+      "target": "ref_laravel_vite_plugin",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "vite.config.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "vite_config",
+      "target": "ref_laravel_vite_plugin",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "vite.config.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "vite_config",
+      "target": "ref_tailwindcss_vite",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "vite.config.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "agents_laravel_boost",
+      "target": "claude_laravel_boost",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\AGENTS.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "semantic"
+    },
+    {
+      "source": "readme_local_setup",
+      "target": "agents_laravel_boost",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:\\t3s5\\pbkk-tugas-week10\\README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "_origin": "semantic"
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

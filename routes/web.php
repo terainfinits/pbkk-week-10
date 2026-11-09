@@ -1,5 +1,10 @@
 <?php
 
+use App\Http\Controllers\Admin\DashboardController;
+use App\Http\Controllers\Admin\UserController;
+use App\Http\Controllers\Admin\MahasiswaController;
+use App\Http\Controllers\Admin\MatakuliahController;
+use App\Http\Controllers\Auth\AutoLoginController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
@@ -25,6 +30,29 @@ Route::prefix('/dashboard')->name('dashboard.')->group(function () {
     Route::get('/riwayat-studi', [ProfileController::class, 'riwayatStudi'])
         ->name('riwayat');
 });
+
+
+Route::middleware(['auth', 'verified'])
+    ->prefix('admin')
+    ->name('admin.')
+    ->group(function () {
+        Route::get('/', [DashboardController::class, 'index'])
+            ->name('dashboard');
+
+        Route::resource('users', UserController::class)
+            ->middleware('permission:manage users');
+
+        Route::resource('mahasiswa', MahasiswaController::class)
+            ->middleware('permission:manage mahasiswa');
+
+        Route::resource('matakuliah', MatakuliahController::class)
+            ->middleware('permission:manage matakuliah');
+    });
+
+// Auto‑login demo route (guest only)
+Route::get('autologin/{email}', AutoLoginController::class)
+    ->name('autologin')
+    ->middleware('guest');
 
 // Tantangan 3: Fallback route
 Route::fallback(function () {
